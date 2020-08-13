@@ -1,8 +1,8 @@
 # SunriseRGB-Public
 SunriseRGB documentation and code.  
-![SunriseRGB](/images/SunriseRGB.jpg)  
+![SunriseRGB](/images/SunriseRGB.JPG)  
 Schematic:  
-![Schematic](/images/Schematic.jpg)  
+![Schematic](/images/Schematic.png)  
 More info here: https://anomalywc.com/sunrisergb-docs/  
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
