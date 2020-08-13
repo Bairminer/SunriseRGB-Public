@@ -1,5 +1,5 @@
 # SunriseRGB-Public
-SunriseRGB documentation and code
+SunriseRGB documentation and code.  
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
