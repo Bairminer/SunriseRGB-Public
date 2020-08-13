@@ -3,7 +3,7 @@ SunriseRGB documentation and code.
 
 ![SunriseRGB](/images/SunriseRGB.JPG)  
 
-Required libraries for default code:
+Required libraries for default code:  
 FastLED library - https://github.com/FastLED/FastLED  
 JCButton Library - https://github.com/JChristensen/Button  
 Arduino EEPROM (if missing from your Arduino install) - https://github.com/PaulStoffregen/EEPROM  
